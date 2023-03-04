@@ -636,8 +636,8 @@ body.preloader-site {
 }
 
 .section-light {
-  background-image: url(../image/favicon3.png);
-  background-position: bottom -30px center;
+  /* background-image: url(../image/favicon2.png);
+  background-position: bottom -30px center; */
   background-repeat: no-repeat;
   background-size: initial;
 }
