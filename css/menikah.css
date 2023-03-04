@@ -565,7 +565,7 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-kang-emil.jpg");
+  background-image: url("../image/445A2259.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -574,7 +574,7 @@ body.preloader-site {
 
 
 .foto2 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sherly-daeng-cashbac.jpg");
+  background-image: url("../image/445A2408.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -636,7 +636,7 @@ body.preloader-site {
 }
 
 .section-light {
-  background-image: url(../image/divider-flowers-leaves.png);
+  background-image: url(../image/favicon3.png);
   background-position: bottom -30px center;
   background-repeat: no-repeat;
   background-size: initial;
