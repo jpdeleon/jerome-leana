@@ -1,4 +1,4 @@
-# Wedding Landing Page - Daeng Sherly Menikah
+# Jerome & Leana's Wedding Landing Page
 
 ![Thumbnail](/image/thumbnail-web-sherly-daeng-menikah.png)
 
@@ -19,9 +19,7 @@
 - Bulma CSS (https://bulma.io)
 
 # Info
-- Live version check at: https://sherly.dae.ng/
-- Or check demo at: https://sherly-daeng-menikah.netlify.app/
-- Check my web at: https://daengdoang.com :)
+- Live version check at: https://sherly-daeng-menikah.netlify.app/
 
 # Fonts
 - Rouge Script (Google Font)
